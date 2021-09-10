@@ -18,8 +18,7 @@ The button container will be above the admin and user registration screens. The 
 
 ### Hide Disabled User Button
 
-1. Bu buton "Check Button" olarak konteyner içerisinde bulunacaktır. "Hide Enable User" metni check kutusunun sağında bitişik olarakbulunacaktır. Ex:
-
-[x] Hide Enable User
-
-2. Bu buton "New User" butonunun 5 px sağında olacaktır ve düşeyde konteyner yüksekliğine göre ortalanacaktır.
+1. This button will be in the container as "Check Button". The text "Hide Enable User" will be located adjacent to the right of the check box. Ex:
+- **[x] Hide Disabled User**
+2. This button will be 5 px to the right of the "New User" button and will be vertically centered according to the container height.
+3. This button will hide the inactive users in the admin screen. 
