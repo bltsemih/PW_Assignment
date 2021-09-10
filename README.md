@@ -34,7 +34,13 @@ The icon and text will be centered inside the button.
 
 ## User Registration Screen
 
-This section will appear on the left side of the screen when a user login or update will be made by the administrator. This screen will open when the "New User" button is pressed or an existing user is clicked on the admin screen.
+This section will appear on the left side of the screen when a user login or update will be made by the administrator. This screen will open when the "New User" button is pressed or an existing user is clicked on the admin screen. The user information requested on the screen is as follows:
+- Username
+- Display Name
+- phone
+- Email
+- User Roles
+- Enable (User activity)
 
 #### Design Details
 
@@ -43,6 +49,6 @@ This section will appear on the left side of the screen when a user login or upd
 3. The space between the two text boxes should be 2 px. The texts of the requested information should center the text boxes vertically.
 4. The "User Roles" box should present 3 options during information entry and these options should appear when the box is clicked. Inside the box should be a placeholder with the words **"Select user roles..."**. The user roles to be found in the options are as follows.
 - Guest
-- admin
+- Admin
 - SuperAdmin
 5. The **"Enable"** option should be on the screen as a check box, unlike other information. 
