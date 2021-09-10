@@ -53,7 +53,7 @@ When the **"Save User"** button is clicked, the information found here will be s
 - SuperAdmin
 5. The **"Enable"** option should be on the screen as a check box, unlike other information. 
 
-## Admin Screen
+## Administration Screen
 
 On this page, some information of users registered in the system should appear. The information to be displayed is as follows:
 - User ID
