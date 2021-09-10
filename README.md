@@ -77,4 +77,4 @@ There should be a filter icon and a sort icon next to the information titles. An
 
 ## NOTE
 
-**The font used within the scope of the developed interface is "Calibri" and the dimensions are given according to a 17 inch screen.**
+*The font used within the scope of the developed interface is "Calibri" and the dimensions are given according to a 17 inch screen.*
