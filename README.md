@@ -41,7 +41,7 @@ This section will appear on the left side of the screen when a user login or upd
 - Email
 - User Roles
 - Enable (User activity)
-
+When the **"Save User"** button is clicked, the information found here will be sent to the admin screen.
 #### Design Details
 
 1. The container with the title "New User" will have a length of **50 px** horizontally and **8 px** vertically. The "New User" title should be **24 pts**.
