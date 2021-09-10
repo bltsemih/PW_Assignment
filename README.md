@@ -7,9 +7,9 @@ The interface to be developed will be used to register system users to the syste
 ## Button Container
 
 The button container will be above the admin and user registration screens. The horizontal length of the container will be 100 px, the vertical length will be 8 px. The buttons in the container are as follows:
-New User
-Hide Disabled User
-Save User
+- New User
+- Hide Disabled User
+- Save User
 
 ### New User Button
 
