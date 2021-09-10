@@ -71,5 +71,10 @@ There should be a filter icon and a sort icon next to the information titles. An
 
 #### Design Details
 
-- The color of the title section of the table should be #0E98E5. Text and icons must be white in color. Text font size should be 12.
-- In the section with user information, the colors should be consecutively white and lightblue. The texts should be 12 pts in black.
+1. In the screen divided into "New User" and "Administrator", this screen should be on the left.
+2. The color of the title section of the table should be #0E98E5. Text and icons must be white in color. Text font size should be 12.
+3. In the section with user information, the colors should be consecutively white and lightblue. The texts should be 12 pts in black.
+
+## NOTE
+
+**The font used within the scope of the developed interface is "Calibri" and the dimensions are given according to a 17 inch screen.**
