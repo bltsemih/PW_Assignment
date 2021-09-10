@@ -15,3 +15,11 @@ The button container will be above the admin and user registration screens. The 
 2. The button to be rectangular should have the color code **#167BB3** or close tones of the specified color.
 3. A *"+"* icon will be placed to the left of the *"New User"* text in the button. The icon and text will be centered inside the button.
 4. This button will lead the administrator to the new user screen.
+
+### Hide Disabled User Button
+
+1. Bu buton "Check Button" olarak konteyner içerisinde bulunacaktır. "Hide Enable User" metni check kutusunun sağında bitişik olarakbulunacaktır. Ex:
+
+[x] Hide Enable User
+
+2. Bu buton "New User" butonunun 5 px sağında olacaktır ve düşeyde konteyner yüksekliğine göre ortalanacaktır.
