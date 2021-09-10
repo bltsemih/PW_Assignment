@@ -14,4 +14,4 @@ The button container will be above the admin and user registration screens. The 
 1. This button will be on the far left of the container and will be **rectangular**. The margins of the button should be *50 px from the left, 10 px from the top and bottom*.
 2. The button to be rectangular should have the color code **#167BB3** or close tones of the specified color.
 3. A *"+"* icon will be placed to the left of the *"New User"* text in the button. The icon and text will be centered inside the button.
-4. This button will lead the administrator to the user add screen.
+4. This button will lead the administrator to the new user screen.
