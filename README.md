@@ -2,7 +2,7 @@
 
 ### **User Interface Specification Document**
 
-The interface to be developed will be used to register system users to the system by the administrator. This interface will come from 3 sections: user registration screen, admin screen and button container.\
+The interface to be developed will be used to register system users to the system by the administrator. This interface will come from 3 sections: user registration screen, admin screen and button container.
 
 ## Button Container
 
