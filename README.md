@@ -63,7 +63,7 @@ On this page, some information of users registered in the system should appear. 
 Only **"Enabled=true"** users should appear on the screen by filtering with the "Hide Disabled User" button in the button container. Admin should be able to update their information by clicking on an existing user.
 
 
-| Birinci Başlık | İkinci Başlık |     Email            | Enabled |
-| -------------- | ------------- | -------------------- | ------- |
-| hücre 1.1      | hücre 1.2     | admin@piworks.net    |  true   |
-| hücre 2.2      | hücre 2.2     | testuser@piworks.net |  true   |
+| ID | İkinci Başlık |         Email        | Enabled |   ---> #167BB3
+| -- | ------------- | -------------------- | ------- |  
+| 1  |   AdminUser   | admin@piworks.net    |   true  |   ---> white
+| 2  |   Test User   | testuser@piworks.net |   true  |   ---> lightblue
