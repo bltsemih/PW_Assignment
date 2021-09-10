@@ -52,3 +52,18 @@ When the **"Save User"** button is clicked, the information found here will be s
 - Admin
 - SuperAdmin
 5. The **"Enable"** option should be on the screen as a check box, unlike other information. 
+
+## Admin Screen
+
+On this page, some information of users registered in the system should appear. The information to be displayed is as follows:
+- User ID
+- Username
+- Email
+- Enabled (User activity(true/false))
+Only **"Enabled=true"** users should appear on the screen by filtering with the "Hide Disabled User" button in the button container. Admin should be able to update their information by clicking on an existing user.
+
+
+| Birinci Başlık | İkinci Başlık |     Email            | Enabled |
+| -------------- | ------------- | -------------------- | ------- |
+| hücre 1.1      | hücre 1.2     | admin@piworks.net    |  true   |
+| hücre 2.2      | hücre 2.2     | testuser@piworks.net |  true   |
